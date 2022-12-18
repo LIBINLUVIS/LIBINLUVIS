@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @LIBINLUVIS
-- 👀 I’m interested in thengga | AI/ML | IOT
-- 🌱 I’m currently not learning ...
-- 💞️ I’m looking to collaborate on undda
-- 📫 How to reach me ...
+- 👀 I’m interested in Web technology | AI/ML | IOT
 
 <!---
 LIBINLUVIS/LIBINLUVIS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
