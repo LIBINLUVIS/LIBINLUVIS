@@ -90,8 +90,8 @@ I'm a **Software Engineer** specializing in **scalable AI systems**, bridging th
 
 | Degree | Specialization | Focus |
 |--------|---------------|-------|
-| 🏫 **M.Tech** | Artificial Intelligence & Machine Learning | Deep Learning · NLP · MLOps · Scalable AI Systems |
-| 🏫 **B.Tech** | Electronics & Communication Engg (minor: CSE) | Signal Processing · Embedded Systems · Algorithms |
+| 🏫 **M.Tech** | Artificial Intelligence & Machine Learning | Deep Learning · Machine Learning · MLOps · Scalable AI Systems |
+| 🏫 **B.Tech** | Electronics & Communication Engg (minor: CSE) | Embedded Systems · Algorithms · Programing · DSA |
 
 ---
 
